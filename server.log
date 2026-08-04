@@ -1,0 +1,7 @@
+INFO Server started
+INFO User logged in
+WARNING Disk usage high
+ERROR Database connection failed
+INFO Request completed
+ERROR Login failed
+WARNING Memory usage high
